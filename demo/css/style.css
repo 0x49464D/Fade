@@ -1,0 +1,13 @@
+body
+{
+    background-color: whitesmoke;
+    text-align: center;
+}
+.fade
+{
+    display: inline-block;
+    width: 300px; height: 409px;
+    margin: 10px;
+    border: 1px solid gray;
+    box-shadow: 0 0 20px gray;
+}
